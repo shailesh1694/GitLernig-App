@@ -1,0 +1,6 @@
+ADd to your image in below image folder show in public directory
+public/Images/
+
+
+
+  name like img1, img2,img3.... so on 
