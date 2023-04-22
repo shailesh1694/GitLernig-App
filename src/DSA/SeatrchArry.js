@@ -16,6 +16,8 @@ function SearchArry() {
 //   }
 
 // console.log(data[index])
+
+const data ="shaileshMorichandubhaijivabhaimorifrom talaja"
  
 const searchHandler =()=>{
   for(let i=0;i<data.length; i++){
