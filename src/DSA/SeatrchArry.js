@@ -19,6 +19,20 @@ function SearchArry() {
 
 
  
+const searchHandler =()=>{
+  for(let i=0;i<data.length; i++){
+    // console.log(data[i]);
+    if(data[i]===Number(search)){
+      console.log(i);
+      index=i;
+
+      
+    }
+    }
+    console.log(data[index])
+    setsearch("")
+    // console.log(typeof Number(search) );
+}
 
   return (
     <>
