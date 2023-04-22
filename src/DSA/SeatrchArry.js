@@ -1,9 +1,9 @@
 import React,{useState} from 'react'
 
 function SearchArry() {
-const [search, setsearch] = useState('')
-let data= [12,10,9,7,5,22,56,10,10];
-let index = undefined;
+// const [search, setsearch] = useState('')
+// let data= [12,10,9,7,5,22,56,10,10];
+// let index = undefined;
 // let item=Number(search);
 
 // for(let i=0;i<data.length; i++){
