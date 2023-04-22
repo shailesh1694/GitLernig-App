@@ -2,7 +2,7 @@ import React from 'react'
 
 function Delet() {
   return (
-    <div>Hello shailesh Mori</div>
+    <h1>MittalMOri</h1>
   )
 }
 
