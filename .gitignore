@@ -10,7 +10,6 @@
 
 # production
 /build
-/SeatrchArry.js
 
 # misc
 .DS_Store
