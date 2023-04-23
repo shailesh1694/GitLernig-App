@@ -4,7 +4,7 @@ function Delet() {
   return (
     <>
     <div>
-      Jay Hind,Jay BharatMataki,Jay Shiva,jay
+      Main 
     </div>
       <h1>Shailesh Mori Git hub Testing Account</h1>
     </>
