@@ -3,7 +3,7 @@ import React from 'react'
 function Delet() {
   return (
     <div>
-      Jay Hind,Jay BharatMataki,Jay Shiva
+      Main Branch
     </div>
   )
 }
